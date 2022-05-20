@@ -9,3 +9,6 @@ I am trying to code crossword puzzle generator with python. I have a [crossword 
 ## TO-DO
 - Generating the cryptic algorithm.
 - Joining squares vertically and horizontally.
+
+## First Version Sample
+![crossword-gen sample](https://allcrosswordclue.com/wp-content/uploads/2022/05/crossword-gen-sample-e1653090765142.jpg)
